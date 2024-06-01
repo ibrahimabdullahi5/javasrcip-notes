@@ -1,0 +1,11 @@
+let a = 5;
+let b = 10;
+let c = 15;
+let sum = a + b + c ;
+let subtraction = a- b - c ;
+let product = a* b * c ;
+let quotient = a / b / c ;
+console.log(sum);
+console.log(subtraction);
+console.log(product);
+console.log(quotient);
